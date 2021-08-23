@@ -1,2 +1,2 @@
 # SRL-Spanish-Demo(Frontend)
-This repository hosta the code for SRL Spanish Demo Interface
+This repository hosts the code for SRL Spanish Demo Interface

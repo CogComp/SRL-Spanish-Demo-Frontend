@@ -54,6 +54,7 @@ body {
 .SRL-Verb-R-ARG1{ color:#000; background-color:#f0d0d0; }
 .SRL-Verb-R-ARG2{ color:#000; background-color:#ddcc89; }
 .SRL-Verb-R-ARG3{ color:#000; background-color:#dcecd9; }
+.SRL-Verb-R-ARGM-TMP{ color:#000; background-color:#aac7ec; }
 .SRL-Verb-C-ARG0{ color:#000; background-color:#f8dcd2; }	
 .SRL-Verb-C-ARG1{ color:#000; background-color:#f4d6d8; }
 .SRL-Verb-C-ARG2{ color:#000; background-color:#ddcc89; }

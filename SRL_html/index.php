@@ -5,7 +5,7 @@
     <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
     <META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE">
     <META HTTP-EQUIV="EXPIRES" CONTENT="0">
-    <title>EDL Spanish Demo</title>
+    <title>SRL Spanish Demo</title>
     <link rel="stylesheet" type="text/css" href="./html/w3.css">
     <link rel="stylesheet" type="text/css" href="./html/SRL.css">
 	<script src="./html/jquery-3.5.1.min.js"></script>
